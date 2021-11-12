@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "Aleo-Bold";
+    src: local("Aleo-Bold"),
+         url("/fonts/Aleo-Bold.otf") format(otf),
+         url("/fonts/Aleo-Bold.eot") format(eot),
+         url("/fonts/Aleo-Bold.ttf") format(ttf),
+         url("/fonts/Aleo-Bold.woff") format(woff),
+         url("/fonts/Aleo-Bold.woff2") format(woff2);
+    font-weight: 700;
+    font-style: normal;     
+}
+@font-face {
+    font-family: "Aleo-Regular";
+    src: local("Aleo-Regular"),
+         url("/fonts/aleo-regular-webfont.eot") format(eot),
+         url("/fonts/aleo-regular-webfont.ttf") format(ttf),
+         url("/fonts/aleo-regular-webfont.woff") format(woff),
+         url("/fonts/aleo-regular-webfont.woff2") format(woff2),
+         url("/fonts/Aleo-Regular.otf") format(otf);
+    font-weight: 200;
+    font-style: normal;     
+}
+@font-face {
+    font-family: "Aleo-light";
+    src: local("Aleo-light"),
+         url("/fonts/aleo-light-webfont.eot") format(eot),
+         url("/fonts/aleo-light-webfont.ttf") format(ttf),
+         url("/fonts/aleo-light-webfont.woff") format(woff),
+         url("/fonts/aleo-light-webfont.woff2") format(woff2),
+         url("/fonts/Aleo-Light.otf") format(otf);
+    font-weight: 200;
+    font-style: normal;     
+}

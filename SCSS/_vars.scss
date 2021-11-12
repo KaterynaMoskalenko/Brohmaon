@@ -1,0 +1,5 @@
+@import "_fonts.scss";
+
+$btn_font_family: "Aleo-Regular";
+
+$font_calc: calc(18px + 5 * ((100vw / 1800) / (1920 - 320)));  ;

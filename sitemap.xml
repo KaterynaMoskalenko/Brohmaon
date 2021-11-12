@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://www.example.coms/travel_anywhere.html</loc>
+    <lastmod>2018-06-04</lastmod>
+  </url>
+  <url>
+    <loc>http://www.example.com/select_place.html</loc>
+    <lastmod>2018-06-04</lastmod>
+  </url>
+  <url>
+    <loc>http://www.example.com/book_now.html</loc>
+    <lastmod>2018-06-04</lastmod>
+  </url>
+  <url>
+    <loc>http://www.example.com/recall.html</loc>
+    <lastmod>2018-06-04</lastmod>
+  </url>
+
+</urlset>
